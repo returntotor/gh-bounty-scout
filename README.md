@@ -83,7 +83,13 @@ MIT
 
 **Făcut cu Claude Code + Hermes Agent**
 
-Dacă tool-ul ăsta te-a ajutat să faci bani, poți:
+Dacă tool-ul ăsta te-a ajutat să faci bani, poți susține proiectul:
 
-- ☕ **Sponsor:** https://github.com/sponsors/returntotor
-- 🛒 **Varianta premium** (watch mode, export CSV, notificări desktop): [disponibilă în curând]
+## Donations 💰
+
+```
+BTC:  bc1qvp20lz33hgwuka5txqtj6schrpvjkeytev0fp6
+ETH:  0x1E99D4e3b0A5030bFE55337314c77504938f6fa0
+SOL:  8kYx29q4T9ZE7noBPCdMGwbUwcBKj4io2e17z3A7WMQG
+```
+

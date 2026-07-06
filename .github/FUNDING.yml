@@ -1,5 +1,6 @@
 # These are supported funding model platforms
+# GitHub Sponsors a fost scos — preferăm crypto pentru anonimat
 
-github: [returntotor]
 buy_me_a_coffee: returntotor
-custom: ['https://gumroad.com/l/gh-bounty-scout']
+custom:
+  - 'https://github.com/returntotor/gh-bounty-scout#donations'
